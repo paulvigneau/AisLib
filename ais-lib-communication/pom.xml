@@ -68,6 +68,11 @@
       <version>${dependencies.dma.commons.version}</version>
     </dependency>
     <dependency>
+      <groupId>com.google.guava</groupId>
+      <artifactId>guava</artifactId>
+      <version>31.0.1-android</version>
+    </dependency>
+    <dependency>
       <groupId>dk.dma.enav</groupId>
       <artifactId>enav-util</artifactId>
       <version>${dependencies.enav.version}</version>
